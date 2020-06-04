@@ -1,3 +1,3 @@
-#Github Usage Tutorial
+# Github Usage Tutorial
 
-##Relaerning the use of Github
+## Relearning the use of Github
